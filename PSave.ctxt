@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=PSave
+comment1.params=SpielerID\ Vorname\ Nachname\ Punktestand\ HoehlenID
+comment1.target=PSave(int,\ java.lang.String,\ java.lang.String,\ int,\ int)
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=HoehelenVerwaltung
+comment1.params=
+comment1.target=HoehelenVerwaltung()
+comment2.params=richtung
+comment2.target=boolean\ checkIfPossible(byte)
+comment3.params=richtung
+comment3.target=boolean\ bewegeNach(byte)
+comment4.params=
+comment4.target=int\ getAktuelleHoehele()
+comment5.params=id
+comment5.target=Hoehle\ getHoehleAtId(int)
+numComments=6

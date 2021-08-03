@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=QUEST
+comment1.params=
+comment1.target=QUEST()
+comment2.params=h\u00F6hlennummer\ spielerID
+comment2.target=boolean\ starteQuest(int,\ int)
+comment3.params=h\u00F6hlennummer
+comment3.target=void\ questAusgeben(int)
+comment4.params=h\u00F6hlennummer\ spielerID
+comment4.target=boolean\ questL\u00F6sen(int,\ int)
+comment5.params=h\u00F6hlennummer\ spielerID\ anzahl
+comment5.target=void\ gebeItem(int,\ int,\ int)
+numComments=6

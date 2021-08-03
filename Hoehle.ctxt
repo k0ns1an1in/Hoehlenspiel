@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Hoehle
+comment1.params=hoehle_id\ hoehlentext
+comment1.target=Hoehle(int,\ java.lang.String)
+comment2.params=spieler_id
+comment2.target=boolean\ betreten(int)
+comment3.params=hoehle_id\ spieler_id
+comment3.target=boolean\ starteQuest(int,\ int)
+comment4.params=
+comment4.target=void\ verlassen()
+comment5.params=
+comment5.target=int\ getSpieler_id()
+comment6.params=
+comment6.target=void\ itemGeben()
+numComments=7

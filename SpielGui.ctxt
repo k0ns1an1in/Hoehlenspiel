@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=SpielGui
+comment1.params=
+comment1.target=SpielGui\ getSpielGui()
+comment2.params=
+comment2.target=SpielGui()
+comment3.params=text
+comment3.target=void\ print(java.lang.String)
+comment4.params=text
+comment4.target=void\ printOverwrite(java.lang.String)
+comment5.params=
+comment5.target=void\ schliesseFenster()
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+numComments=8

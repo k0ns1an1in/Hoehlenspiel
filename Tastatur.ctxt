@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Tastatur
+comment0.text=\r\n\r\n\ \r\n\r\n\ Klasse\ <code>Tastatur</code>\ enthaelt\ \r\n\r\n\ statische\ Methoden\ zum\ Einlesen\ von\r\n\r\n\ der\ Standardeingabe\ (Kommandozeile)\r\n\r\n
+comment1.params=
+comment1.target=java.lang.String\ readString()
+comment1.text=\r\n\r\n\ Wartet\ auf\ Eingabe\ von\ der\ Kommandozeile,\ \r\n\r\n\ liefert\ eine\ Instanz\ von\ <code>String</code>\r\n\r\n
+comment2.params=
+comment2.target=char\ readchar()
+comment2.text=\r\n\r\n\ Warter\ auf\ Eingabe\ von\ der\ Kommandozeile,\ \r\n\r\n\ liefert\ einen\ Wert\ vom\ Grundtyp\ <code>char</code>\r\n\r\n
+comment3.params=
+comment3.target=int\ readint()
+comment3.text=\r\n\r\n\ Warter\ auf\ Eingabe\ von\ der\ Kommandozeile,\ \r\n\r\n\ liefert\ einen\ Wert\ vom\ Grundtyp\ <code>int</code>\r\n\r\n
+comment4.params=
+comment4.target=float\ readfloat()
+comment4.text=\r\n\r\n\ Warter\ auf\ Eingabe\ von\ der\ Kommandozeile,\ \r\n\r\n\ liefert\ einen\ Wert\ vom\ Grundtyp\ <code>float</code>\r\n\r\n
+comment5.params=
+comment5.target=double\ readdouble()
+comment5.text=\r\n\r\n\ Warter\ auf\ Eingabe\ von\ der\ Kommandozeile,\ \r\n\r\n\ liefert\ einen\ Wert\ vom\ Grundtyp\ <code>double</code>\r\n\r\n
+numComments=6

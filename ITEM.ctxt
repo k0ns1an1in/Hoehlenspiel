@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ITEM
+comment1.params=nSpieler\ nItemID\ nAnzahl\ nBeschreibung\ nPunkte
+comment1.target=ITEM(int,\ java.lang.String,\ int,\ java.lang.String,\ int)
+numComments=2

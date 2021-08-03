@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DATENBANK
+comment1.params=
+comment1.target=java.sql.Connection\ connect()
+comment2.params=ID\ Vorname\ Nachname\ Punkte\ HID
+comment2.target=int\ NewPlayer(int,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=SpielerID\ HID
+comment3.target=void\ UpdateHoehleJetzt(int,\ int)
+comment4.params=SpielerID\ Punkte
+comment4.target=void\ UpdatePunkte(int,\ int)
+comment5.params=ID
+comment5.target=PSave\ getSpieler(int)
+comment6.params=SID\ HID\ Wert
+comment6.target=void\ setHoehle(int,\ java.lang.String,\ boolean)
+comment7.params=SID
+comment7.target=boolean[]\ getH(int)
+comment8.params=ID
+comment8.target=void\ entferneSpieler(int)
+numComments=9

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Spiel
+comment1.params=
+comment1.target=Tastatur\ getSpielUi()
+comment2.params=
+comment2.target=int\ getAktuelleHoehle()
+comment3.params=richtung
+comment3.target=boolean\ bewegeNach(byte)
+comment4.params=richtung
+comment4.target=boolean\ checkIfPossible(byte)
+comment5.params=
+comment5.target=void\ starteSpiel()
+comment6.params=hoehlenId
+comment6.target=void\ starteSpiel(int)
+comment7.params=ID
+comment7.target=int\ anmelden(int)
+comment8.params=ID\ Vorname\ Nachname
+comment8.target=int\ registrieren(int,\ java.lang.String,\ java.lang.String)
+numComments=9
